@@ -19,6 +19,7 @@
 - Git, GitHub
 - SQL
 - Postman
+
 --------------------------
 ### Code example:
 #### «Return String of First Characters» KATA from CODEWARS: 
@@ -30,10 +31,10 @@ function makeString(s) {
 ```
 --------------------------
 ### Courses:
-- «JavaScript для начинающих» on https://stepik.org (completed)
-- «JavaScript Algorithms and Data Structures» on https://www.freecodecamp.org (in progress)
-- RS School`s Course «JavaScript/Front-end Pre-School 2022Q4» on https://rs.school/js-stage0 (completed)
-- RS School`s Course «JavaScript/Front-end 2023Q1» on https://rs.school/js (in progress)
+- «JavaScript для начинающих» on <https://stepik.org> (completed)
+- «JavaScript Algorithms and Data Structures» on <https://www.freecodecamp.org> (in progress)
+- RS School`s Course «JavaScript/Front-end Pre-School 2022Q4» on <https://rs.school/js-stage0> (completed)
+- RS School`s Course «JavaScript/Front-end 2023Q1» on <https://rs.school/js> (in progress)
 
 --------------------------
 ### Languages:
