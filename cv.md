@@ -14,6 +14,8 @@
 --------------------------
 ### Skills:
 - JavaScript Basics
+- HTML
+- CSS
 - Git, GitHub
 - SQL
 - Postman
