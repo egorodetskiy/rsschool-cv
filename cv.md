@@ -34,6 +34,7 @@ function makeString(s) {
 - «JavaScript Algorithms and Data Structures» on https://www.freecodecamp.org (in progress)
 - RS School`s Course «JavaScript/Front-end Pre-School 2022Q4» on https://rs.school/js-stage0 (completed)
 - RS School`s Course «JavaScript/Front-end 2023Q1» on https://rs.school/js (in progress)
+
 --------------------------
 ### Languages:
 - Russian - Native
