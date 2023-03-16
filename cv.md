@@ -19,7 +19,6 @@
 - Git, GitHub
 - SQL
 - Postman
-
 --------------------------
 ### Code example:
 #### «Return String of First Characters» KATA from CODEWARS: 
