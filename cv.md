@@ -5,7 +5,7 @@
 ### Contact information:
 #### **Phone:** +7 920 8059493
 #### **E-mail:** gorodetskiy2005@mail.ru
-#### **LinkedIn:** https://www.linkedin.com/in/egorodetskiy
+#### **LinkedIn:** <https://www.linkedin.com/in/egorodetskiy>
 #### **Telegram:** @so_much_is_lost
 #### **Discord:** Holocaust(@egorodetskiy)
 --------------------------
