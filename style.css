@@ -1,9 +1,3 @@
-@media (max-width: 768px) {
-  .section {
-    width: 100%;
-  }
-}
-
 @font-face {
     font-family: ChivoMono;
      src: url("assets/fonts/ChivoMono-VariableFont_wght.ttf");
